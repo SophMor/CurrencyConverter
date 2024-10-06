@@ -1,0 +1,12 @@
+{
+  "result": "success",
+  "documentation": "https://www.exchangerate-api.com/docs",
+  "terms_of_use": "https://www.exchangerate-api.com/terms",
+  "time_last_update_unix": 1728172801,
+  "time_last_update_utc": "Sun, 06 Oct 2024 00:00:01 +0000",
+  "time_next_update_unix": 1728259201,
+  "time_next_update_utc": "Mon, 07 Oct 2024 00:00:01 +0000",
+  "base_code": "USD",
+  "target_code": "EUR",
+  "conversion_rate": 0.9096
+}
